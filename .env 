@@ -1,0 +1,4 @@
+STRIPE_SECRET_KEY=sk_test_...        # your Stripe secret key
+STRIPE_WEBHOOK_SECRET=whsec_...      # webhook signing secret (from Stripe Dashboard)
+CURRENCY=aud                         # change if you want USD: 'usd'
+PORT=3000
